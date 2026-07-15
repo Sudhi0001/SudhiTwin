@@ -9,14 +9,14 @@ import {
 
 const timeline = [
   {
-    year: "2023",
+    year: "2024",
     title: "Started My Development Journey",
     description:
       "Began learning web development, programming fundamentals and UI design.",
     icon: Code2,
   },
   {
-    year: "2024",
+    year: "2025",
     title: "BEL Internship",
     description:
       "Built an AI-powered Text Summarization system using Transformer models.",
